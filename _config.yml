@@ -21,8 +21,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : 果果
-description: > # this means to ignore newlines until "Language & timezone"
-  遇到有趣的人，做有趣的事。
+description: 遇到有趣的人，做有趣的事。
 
 
 ## => Language and Timezone
@@ -35,7 +34,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : 果果
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
